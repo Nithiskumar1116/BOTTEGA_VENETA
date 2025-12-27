@@ -1,4 +1,4 @@
-Project Overview
+Project Overview (https://medium.com/@nithiskumar11nk/sales-overview-bottega-veneta-a4c02d0d16d8)
 
 The Sales Overview Dashboard for BOTTEGA VENETA provides a comprehensive and visually refined analysis of the brand’s global sales performance, reflecting the elegance and precision synonymous with the Italian luxury fashion house. Designed for strategic decision-making, the dashboard consolidates key commercial metrics into a single, intuitive interface.
 
